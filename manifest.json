@@ -1,0 +1,43 @@
+{
+  "name": "frytek2k",
+  "version": 7,
+  "edition": "Hot Lap",
+  "output": "C:\\Users\\poco\\Documents\\Codex\\2026-11-07\\referenced-chatgpt-conversation-this-is-an\\outputs\\Frytek2k-XboxOne-v7",
+  "geometrySource": "C:\\Users\\poco\\Documents\\Codex\\2026-11-07\\referenced-chatgpt-conversation-this-is-an\\work\\fry-source\\Barnarnarrrr-XboxOne-v2",
+  "reference": "https://www.twitch.tv/frytek2k/about",
+  "branding": "Exact supplied transparent fries artwork embedded in the emblem",
+  "dimensions": [
+    750,
+    630
+  ],
+  "assets": [
+    "base",
+    "abxy",
+    "bumper",
+    "disconnected",
+    "dpad",
+    "quadrant",
+    "start-select",
+    "stick",
+    "trigger"
+  ],
+  "language": "en",
+  "palette": {
+    "yellow": "#FFC52C",
+    "red": "#DB2928",
+    "white": "#F5F6F8",
+    "graphite": "#22252B"
+  },
+  "guideGlow": {
+    "selector": ".xbox .meta.pressed",
+    "logoBox": [
+      344,
+      162,
+      62,
+      58
+    ],
+    "color": "#FFE044",
+    "heldOnly": true
+  },
+  "sourceVersion": 6
+}
